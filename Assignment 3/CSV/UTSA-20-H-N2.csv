@@ -1,0 +1,34 @@
+Key,Value
+Density,0.882399
+Density_unit,g/cm^3
+Estimated_saturation_loading,17.8061902
+Estimated_saturation_loading_unit,mol/kg
+Input_block,"[1.655, 100]"
+Input_ha,DEF
+Input_structure_filename,file.txt.cif
+Input_volpo,"[1.655, 1.655, 10000]"
+Number_of_blocking_spheres,2
+POAV_A^3,3155.51
+POAV_A^3_unit,A^3
+POAV_Volume_fraction,0.5552
+POAV_Volume_fraction_unit,
+POAV_cm^3/g,0.629194
+POAV_cm^3/g_unit,cm^3/g
+PONAV_A^3,0.0
+PONAV_A^3_unit,A^3
+PONAV_Volume_fraction,0.0
+PONAV_Volume_fraction_unit,
+PONAV_cm^3/g,0.0
+PONAV_cm^3/g_unit,cm^3/g
+Unitcell_volume,5683.56
+Unitcell_volume_unit,A^3
+adsorption_energy_widom_average,-11.2231493819
+adsorption_energy_widom_dev,0.0351294402
+adsorption_energy_widom_unit,kJ/mol
+henry_coefficient_average,4.37685e-06
+henry_coefficient_dev,9.23642e-09
+henry_coefficient_unit,mol/kg/Pa
+is_kh_enough,False
+is_porous,True
+temperature,298
+temperature_unit,K
